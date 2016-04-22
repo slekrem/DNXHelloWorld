@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+	"compilationOptions": {
+		"emitEntryPoint": true
+	},
+	"dependencies": { },
+	"frameworks": {
+		"dnxcore50": {
+			"dependencies": {
+				"System.Console": "4.0.0-*"
+			}
+		}
+	},
+	"commands": {
+		"Program": "Program"
+	}
+}
